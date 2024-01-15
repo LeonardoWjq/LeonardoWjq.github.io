@@ -20,5 +20,6 @@ I received my BSc. in Honours Computer Science at [McGill University](https://ww
 🎉 News
 ======
 - **Aug. 2023** I joined UVA as a Ph.D. student in computer science!
-- **Aug. 2023** I attended [IEEE Conference on Games](https://2023.ieee-cog.org/) and presented our work *Deep Dive on Checkers Endgame Data*. Boston is an amazing city!
-- **June 2023** I defended my [master's thesis](https://era.library.ualberta.ca/items/66c60c35-8163-4ac5-a9a2-3412398dbe1d)!
+- **Aug. 2023** I attended [CoG 2023](https://2023.ieee-cog.org/) and presented our work *Deep Dive on Checkers Endgame Data*. Boston is amazing!
+- **June 2023** I defended my [master's thesis](https://era.library.ualberta.ca/items/66c60c35-8163-4ac5-a9a2-3412398dbe1d)! I cannot thank my supervisors Martin and Jonathan enough for their support.
+- **May 2023** Our paper *Deep Dive on Checkers Endgame Data*, based on the work of my master's thesis, was accepted as a full paper for [IEEE Conference on Games 2023](https://2023.ieee-cog.org/)!
