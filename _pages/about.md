@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is Jiuqi. I am a first-year Ph.D. student in the [Department of Computer Science](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia](https://www.virginia.edu/), working with [Dr. Shangtong Zhang](https://shangtongzhang.github.io/) in Sequential Decision-Making Lab.
+Hi, this is Jiuqi. I am a first-year PhD student in the [Department of Computer Science](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia](https://www.virginia.edu/), working with [Dr. Shangtong Zhang](https://shangtongzhang.github.io/) in Sequential Decision-Making Lab.
 My research interests center around understanding and developing efficient and robust algorithms to solve complex sequential decision-making problems.
 Currently, I am focusing on the theory and applications of **reinforcement learning**.
 I also think **deep learning** and **heuristic search** are cool.
