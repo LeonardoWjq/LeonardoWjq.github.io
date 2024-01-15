@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Jiuqi Wang"
+  avatar           : "profile.jpg"
+  bio              : "Computer Science Ph.D. Student @ UVA"
   location         : "Location"
   employer         :
   pubmed           :
