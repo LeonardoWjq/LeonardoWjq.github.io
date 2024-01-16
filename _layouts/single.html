@@ -42,7 +42,7 @@ layout: default
           <b>Abstract</b>
           <p>{{ page.abstract }}</p>
           {% if page.paperurl %}
-            <p> <a href=" {{ post.paperurl }} "> Link to Paper</a> </p>
+            <p> <a href=" {{ page.paperurl }} "> Link to Paper</a> </p>
           {% endif %}
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
