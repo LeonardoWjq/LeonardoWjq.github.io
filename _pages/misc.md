@@ -18,7 +18,10 @@ My go-to music genre is still Rock and Roll, but I have also been exploring othe
 
 
 ## Cooking ##
+Cooking gives me peace and satisfaction. I often get into a flow state when I cook. Not only do I cook dishes from my cultural background, but I also love to learn and experiment with cuisine from other parts of the world. Below are some of the dishes I cook that are decent presentation-wise (and tasty, of course).
 
+![Tonkatsu](../images/tonkatsu.jpeg)
+Air-fried Tonkatsu
 ## Sports ##
 
 ## Other Random Stuff ##
