@@ -17,7 +17,7 @@ My go-to music genre is still Rock and Roll, but I have also been exploring othe
 - **Fingerstyle:** Masaaki Kishibe, Kotaro Oshio, Kim Youngso, Sungha Jung...
 
 
-## Cooking ##
+## 🍳 Cooking ##
 Cooking gives me peace and satisfaction. I often get into a flow state when I cook. Not only do I cook dishes from my cultural background, but I also love to learn and experiment with cuisine from other parts of the world. Below are some of the dishes I cook that are decent presentation-wise (and tasty, of course).
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
@@ -42,6 +42,8 @@ Cooking gives me peace and satisfaction. I often get into a flow state when I co
     </div>
 </div>
 
-## Sports ##
+## 🏀 Sports ##
+I play a couple of recreational sports, such as basketball and badminton. I used to play intramural basketball in my undergraduate and master's. We had a lot of fun. I wish to learn table tennis in 2024.
 
+I also like to be in the nature. Fortunately, there are plenty of good hiking trails around Charlottesville.
 ## Other Random Stuff ##
