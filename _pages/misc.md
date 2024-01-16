@@ -20,8 +20,28 @@ My go-to music genre is still Rock and Roll, but I have also been exploring othe
 ## Cooking ##
 Cooking gives me peace and satisfaction. I often get into a flow state when I cook. Not only do I cook dishes from my cultural background, but I also love to learn and experiment with cuisine from other parts of the world. Below are some of the dishes I cook that are decent presentation-wise (and tasty, of course).
 
-![Tonkatsu](../images/tonkatsu.jpeg)
-Air-fried Tonkatsu
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+    <div style="flex: 0 0 48%; margin-right: 2%;">
+        <img src="../images/food/tonkatsu.jpeg" alt="Tonkatsu">
+        <p>Air-fried Tonkatsu</p>
+    </div>
+    <div style="flex: 0 0 48%;">
+        <img src="../images/food/dumpling.jpeg" alt="Dumpling">
+        <p> Chinese Dumpling (Jiaozi) Stuffed with Minced Garlic Chives and Scrambled Eggs (I made them with my girlfriend for the New Year dinner.)</p>
+    </div>
+</div>
+
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+    <div style="flex: 0 0 48%; margin-right: 2%;">
+        <img src="../images/food/braised_beef.jpeg" alt="Braised Beef">
+        <p>Braised Beef and Potato with Tomato Base</p>
+    </div>
+    <div style="flex: 0 0 48%;">
+        <img src="../images/food/curry.jpeg" alt="Second Image">
+        <p> Japanese Chicken Curry</p>
+    </div>
+</div>
+
 ## Sports ##
 
 ## Other Random Stuff ##
