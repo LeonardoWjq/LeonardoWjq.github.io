@@ -46,4 +46,10 @@ Cooking gives me peace and satisfaction. I often get into a flow state when I co
 I play a couple of recreational sports, such as basketball and badminton. I used to play intramural basketball in my undergraduate and master's. We had a lot of fun. I wish to learn table tennis in 2024.
 
 I also like to be in the nature. Fortunately, there are plenty of good hiking trails around Charlottesville.
-## Other Random Stuff ##
+## 👻 Other Random Stuff ##
+- The best movie I watched in 2023 was *An Elephant Sitting Still (大象席地而坐)*.
+- I am learning [JAX](https://github.com/google/jax) and implementing some (deep) reinforcement learning algorithms with it.
+I am sporadically updating a [repo](https://github.com/LeonardoWjq/RL-Algorithms) of my code.
+- My favourite game(s) is the Persona series. I play them on my Nintendo Switch.
+- I am semi-seriously learning French and Japanese. Feel free to reach me if you need a language partner. I am a native (Mandarin) Chinese speaker and speak English reasonably well.
+- My MBTI is INFJ-T.
