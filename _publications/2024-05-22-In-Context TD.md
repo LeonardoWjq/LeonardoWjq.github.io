@@ -2,7 +2,7 @@
 title: "Transformers Learn Temporal Difference Methods for In-Context Reinforcement Learning"
 authors: "<b>Jiuqi Wang</b>* , Ethan Blaser*, Hadi Daneshmand, Shangtong Zhang"
 collection: publications
-permalink: /publication/2024-05-22-Transformers Learn Temporal Difference Methods for In-Context Reinforcement Learning
+permalink: /publication/2024-05-22-In-Context TD
 excerpt:
 date: 2023-05-22
 venue: 'arXiv'
