@@ -4,7 +4,7 @@ authors: "<b>Jiuqi Wang</b>* , Ethan Blaser*, Hadi Daneshmand, Shangtong Zhang"
 collection: publications
 permalink: /publication/2024-05-22-In-Context TD
 excerpt:
-date: 2023-05-22
+date: 2024-05-22
 venue: 'arXiv'
 paperurl: 'https://www.arxiv.org/abs/2405.13861'
 citation:
