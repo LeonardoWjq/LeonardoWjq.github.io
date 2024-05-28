@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+<p style="color:gray;">* indicates equal contribution</p>
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
