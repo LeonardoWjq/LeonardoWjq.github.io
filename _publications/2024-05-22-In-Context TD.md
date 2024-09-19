@@ -3,7 +3,9 @@ title: "Transformers Learn Temporal Difference Methods for In-Context Reinforcem
 authors: "<b>Jiuqi Wang</b>* , Ethan Blaser*, Hadi Daneshmand, Shangtong Zhang"
 collection: publications
 permalink: /publication/2024-05-22-In-Context TD
-excerpt: "Contributed talk at the RLC Workshop on Training Agents with Foundation Models, 2024.\n Spotlight Award at the ICML Workshop on In-Context Learning, 2024."
+excerpt:
+note: "Contributed talk at the RLC Workshop on Training Agents with Foundation Models, 2024.<br>
+       Spotlight Award at the ICML Workshop on In-Context Learning, 2024."
 date: 2024-05-22
 venue: 'arXiv'
 paperurl: 'https://www.arxiv.org/abs/2405.13861'
