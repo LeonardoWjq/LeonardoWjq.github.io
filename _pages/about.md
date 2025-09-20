@@ -18,6 +18,7 @@ I received my BSc. in Honours Computer Science at [McGill University](https://ww
 
 🎉 News
 ======
+- **Sept. 2025** One paper is accepted at NeurIPS 2025. See you in San Diego!
 - **June 2025** I joined [Pokee AI](https://pokee.ai/) as a research scientist intern working on training agentic systems with reinforcement learning!
 - **Jan. 2025** One paper is accepted at ICLR 2025. See you in Singapore!
 - **May 2024** I participated in the first AI-SCORE summer school and had so much fun!
