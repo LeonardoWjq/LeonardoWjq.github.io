@@ -18,6 +18,7 @@ I received my BSc. in Honours Computer Science at [McGill University](https://ww
 
 🎉 News
 ======
+- **Oct. 2025** We open-sourced [PokeeResearch-7B](https://github.com/Pokee-AI/PokeeResearchOSS), a state-of-the-art 7B deep research agent that can search and read on the web!
 - **Sept. 2025** One paper is accepted at NeurIPS 2025. See you in San Diego!
 - **June 2025** I joined [Pokee AI](https://pokee.ai/) as a research scientist intern working on training agentic systems with reinforcement learning!
 - **Jan. 2025** One paper is accepted at ICLR 2025. See you in Singapore!
