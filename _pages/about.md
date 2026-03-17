@@ -18,6 +18,7 @@ I received my BSc. in Honours Computer Science at [McGill University](https://ww
 
 🎉 News
 ======
+- **Mar. 2026** One paper is accepted at JMLR!
 - **Jan. 2026** One paper is accepted at AISTATS 2026!
 - **Oct. 2025** We open-sourced [PokeeResearch-7B](https://github.com/Pokee-AI/PokeeResearchOSS), a state-of-the-art 7B deep research agent that can search and read on the web!
 - **Sept. 2025** One paper is accepted at NeurIPS 2025. See you in San Diego!
