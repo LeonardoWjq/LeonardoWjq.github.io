@@ -18,7 +18,7 @@ I received my BSc. in Honours Computer Science at [McGill University](https://ww
 
 🎉 News
 ======
-- **May 2026** I am joining Google DeepMind London as a student researcher in the Autonomous Agents team under [Dr. Martin Klissarov](https://mklissa.github.io/)!
+- **May 2026** I am joining Google DeepMind London as a student researcher in the Autonomous Agents team under [Martin Klissarov](https://mklissa.github.io/)!
 - **May 2026** One paper is accepted at KDD 2026 AI4Sciences Track!
 - **May 2026** I passed my qualifying exam! Many thanks to my committee.
 - **Mar. 2026** One paper is accepted at JMLR!
