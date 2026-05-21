@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is Jiuqi. I am a third-year Ph.D. student in the [Department of Computer Science](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia](https://www.virginia.edu/), working with [Dr. Shangtong Zhang](https://shangtongzhang.github.io/) in [Sequential Intelligence Lab (SIL)](https://github.com/Sequential-Intelligence-Lab).
+Hi, this is Jiuqi. I am a third-year Ph.D. candidate in the [Department of Computer Science](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia](https://www.virginia.edu/), working with [Dr. Shangtong Zhang](https://shangtongzhang.github.io/) in [Sequential Intelligence Lab (SIL)](https://github.com/Sequential-Intelligence-Lab).
 My research interests center around understanding and developing efficient and robust algorithms to solve complex sequential decision-making problems.
 Currently, I am focusing on the theory and applications of **reinforcement learning**.
 With the rapid advancement of large language models, I am also spending some time digging into agentic systems and how RL can help with improving such systems.
@@ -18,6 +18,9 @@ I received my BSc. in Honours Computer Science at [McGill University](https://ww
 
 🎉 News
 ======
+- **May 2026** I am joining Google DeepMind London as a student researcher in the Autonomous Agents team under [Dr. Martin Klissarov](https://mklissa.github.io/)!
+- **May 2026** One paper is accepted at KDD 2026 AI4Sciences Track!
+- **May 2026** I passed my qualifying exam! Many thanks to my committee.
 - **Mar. 2026** One paper is accepted at JMLR!
 - **Jan. 2026** One paper is accepted at AISTATS 2026!
 - **Oct. 2025** We open-sourced [PokeeResearch-7B](https://github.com/Pokee-AI/PokeeResearchOSS), a state-of-the-art 7B deep research agent that can search and read on the web!
